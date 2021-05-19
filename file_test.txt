@@ -4,3 +4,4 @@ edited in kraken itself
 another commit
 
 merge test in kraken
+another merge test
